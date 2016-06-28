@@ -1,0 +1,62 @@
+<resources>
+
+    <string name="app_name">DownApp</string>
+    <string name="downLoad">download</string>
+    <string name="clear">clear</string>
+    <string name="affirm">确定</string>
+    <string name="cancel">取消</string>
+    
+    <string name="dialog_tips">确定要删除此项？</string>
+    <string name="dialog_ok">确定</string>
+    <string name="dialog_cancle">取消</string>
+    
+    <string name="current_pn_tips">当前下载应用包名：\n %s</string>
+    <string name="current_percent_tips">已设置下载百分比：%d </string>
+ 	<string name="set_percent_ok">设置百分比成功</string>
+ 	<string name="set_percent_err_tips">百分比不能为空,也不能为0</string>
+ 	<string name="not_set_percent">未设置下载百分比,将完全下载</string>
+ 	<string name="set_percent_hint">下载百分比%</string>
+ 	
+ 	<string name="add_an_db_tip">添加应用到数据库:应用名</string>
+ 	<string name="add_pn_db_tip">添加应用到数据库:包名</string>
+ 	<string name="auto_to_market_tip">自动跳转应用市场：</string>
+ 	
+ 	<string name="auto_to_hdj_tip">定时跳转到修改器：</string>
+ 	<string name="auto_click_in_market">应用市场自动点击下载：</string>
+ 	
+ 	<string name="imei_same">两次IMEI--相同</string>
+ 	<string name="imei_difference">两次IMEI--不相同</string>
+ 	<string name="imei_old">上次IMEI：</string>
+ 	<string name="imei_new">本次IMEI：</string>
+ 	<string name="set">设置</string>
+ 	<string name="add">添加</string>
+ 	
+ 	<string name="not_set_package_yet">尚未设置下载的应用的包名，请先添加到数据库再进行设置</string>
+ 	<string name="get_app_from_sd">从SD卡添加包名信息</string>
+ 	<string name="change_item">修改应用名或包名</string>
+ 	<string name="delete_item">删除该应用设置</string>
+ 	
+ 	<string name="change_item_info">修改应用名或包名</string>
+ 	<string name="change_qpp_name">应用名</string>
+ 	<string name="change_qpp_package_name">包名</string>
+ 	<string name="change_qpp_error">修改失败，可能该包名已经存在！</string>
+ 	
+ 	
+ 	<string name="set_install_hint">显示安装界面n秒后跳转到修改器</string>
+ 	<string name="set_install_tips">显示安装界面 %d 秒后跳转到修改器</string>
+ 	<string name="set_install_error_tips">设置时间不能为空</string>
+ 	<string name="clear_count">清除下载计数</string>
+ 	
+ 	
+ 	<string name="choose_market">选择应用市场</string>
+ 	<string name="market_baidu">百度手机助手</string>
+ 	<string name="market_360">360手机助手</string>
+ 	<string name="market_yyb">应用宝</string>
+ 	
+ 	<string name="need_permission">需要添加使用情况查询权限</string>
+ 	
+ 	<string name="background_service">DownApp</string>
+ 	<string name="background_service_content">后台服务开启</string>
+ 	
+ 	
+</resources>
